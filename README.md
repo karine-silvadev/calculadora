@@ -2,13 +2,14 @@
 
 Minha primeira calculadora feita com HTML, CSS e JavaScript. 🧮
 
-🔗 **[Acesse o site aqui](https://karine-silvadev.github.io/Calculadora-/)**
+🔗 **[Acesse o site aqui](https://karine-silvadev.github.io/calculadora/)**
 
 ## Funcionalidades
 
 - Soma, subtração, multiplicação e divisão
 - Botão C para limpar o visor
 - Mensagem de erro para contas inválidas
+- Suporte ao teclado (números, operadores, Enter, Backspace e Esc)
 
 ## Tecnologias usadas
 
@@ -20,9 +21,7 @@ Minha primeira calculadora feita com HTML, CSS e JavaScript. 🧮
 
 Este é o meu primeiro projeto publicado no GitHub, criado para praticar os fundamentos de desenvolvimento web e me especializar. 
 
-## Próximos passos
+## Funcionalidades
 
-- Adicionar suporte ao teclado
-- Melhorar o visual dos botões
 - Criar um histórico de contas
 - Realizar projetos complexos e bem estruturados
